@@ -181,7 +181,7 @@ track Exp2_12h_WT_Flavo_FW
 parent Exp2_12h_WT_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_12h_WT_Flavo-KF297339.1-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_12h_WT_Flavo-dedup-KF297339.1-FW.bw
 longLabel Exp2 12h WT Flavo FW
 shortLabel Exp2 12h WT Flavo FW
 negateValues off
@@ -195,7 +195,7 @@ track Exp2_12h_WT_Flavo_RV
 parent Exp2_12h_WT_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_12h_WT_Flavo-KF297339.1-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_12h_WT_Flavo-dedup-KF297339.1-RV.bw
 longLabel Exp2 12h WT Flavo RV
 shortLabel Exp2 12h WT Flavo RV
 negateValues on
