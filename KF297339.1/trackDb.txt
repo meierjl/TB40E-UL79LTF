@@ -1,0 +1,334 @@
+track KF297339.1
+type bigGenePred
+group map
+priority 1
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/KF297339.1.bb
+longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
+shortLabel GenBank KF297339.1
+visibility pack
+
+
+##########
+ 
+track Exp1_72h_UL79HF
+compositeTrack on
+type bigWig 0 1000
+group UL79
+priority 9.5
+visibility full
+shortLabel Exp1 72h UL79HF
+longLabel Exp1 72h UL79HF
+ 
+track Exp1_72h_UL79HF_FW
+parent Exp1_72h_UL79HF on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF-dedup-KF297339.1-FW.bw
+longLabel Exp1 72h UL79HF FW
+shortLabel Exp1 72h UL79HF FW
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+ 
+track Exp1_72h_UL79HF_RV
+parent Exp1_72h_UL79HF on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF-dedup-KF297339.1-RV.bw
+longLabel Exp1 72h UL79HF RV
+shortLabel Exp1 72h UL79HF RV
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
+ 
+track Exp1_72h_UL79HF_dTAG
+compositeTrack on
+type bigWig 0 1000
+group UL79
+priority 9.5
+visibility full
+shortLabel Exp1 72h UL79HF dTAG
+longLabel Exp1 72h UL79HF dTAG
+ 
+track Exp1_72h_UL79HF_dTAG_FW
+parent Exp1_72h_UL79HF_dTAG on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_dTAG-dedup-KF297339.1-FW.bw
+longLabel Exp1 72h UL79HF dTAG FW
+shortLabel Exp1 72h UL79HF dTAG FW
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+ 
+track Exp1_72h_UL79HF_dTAG_RV
+parent Exp1_72h_UL79HF_dTAG on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_dTAG-dedup-KF297339.1-RV.bw
+longLabel Exp1 72h UL79HF dTAG RV
+shortLabel Exp1 72h UL79HF dTAG RV
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+##########
+ 
+track Exp1_72h_UL79HF_Flavo
+compositeTrack on
+type bigWig 0 1000
+group UL79
+priority 9.5
+visibility full
+shortLabel Exp1 72h UL79HF Flavo
+longLabel Exp1 72h UL79HF Flavo
+ 
+track Exp1_72h_UL79HF_Flavo_FW
+parent Exp1_72h_UL79HF_Flavo on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_Flavo-dedup-KF297339.1-FW.bw
+longLabel Exp1 72h UL79HF Flavo FW
+shortLabel Exp1 72h UL79HF Flavo FW
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+ 
+track Exp1_72h_UL79HF_Flavo_RV
+parent Exp1_72h_UL79HF_Flavo on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_Flavo-dedup-KF297339.1-RV.bw
+longLabel Exp1 72h UL79HF Flavo RV
+shortLabel Exp1 72h UL79HF Flavo RV
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
+ 
+track Exp1_72h_UL79HF_Flavo_dTAG
+compositeTrack on
+type bigWig 0 1000
+group UL79
+priority 9.5
+visibility full
+shortLabel Exp1 72h UL79HF Flavo dTAG
+longLabel Exp1 72h UL79HF Flavo dTAG
+ 
+track Exp1_72h_UL79HF_Flavo_dTAG_FW
+parent Exp1_72h_UL79HF_Flavo_dTAG on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_Flavo_dTAG-dedup-KF297339.1-FW.bw
+longLabel Exp1 72h UL79HF Flavo dTAG FW
+shortLabel Exp1 72h UL79HF Flavo dTAG FW
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+ 
+track Exp1_72h_UL79HF_Flavo_dTAG_RV
+parent Exp1_72h_UL79HF_Flavo_dTAG on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_Flavo_dTAG-dedup-KF297339.1-RV.bw
+longLabel Exp1 72h UL79HF Flavo dTAG RV
+shortLabel Exp1 72h UL79HF Flavo dTAG RV
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+##########
+ 
+track Exp2_12h_WT_Flavo
+compositeTrack on
+type bigWig 0 1000
+group UL79
+priority 9.5
+visibility full
+shortLabel Exp2 12h WT Flavo
+longLabel Exp2 12h WT Flavo
+ 
+track Exp2_12h_WT_Flavo_FW
+parent Exp2_12h_WT_Flavo on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_12h_WT_Flavo-KF297339.1-FW.bw
+longLabel Exp2 12h WT Flavo FW
+shortLabel Exp2 12h WT Flavo FW
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+ 
+track Exp2_12h_WT_Flavo_RV
+parent Exp2_12h_WT_Flavo on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_12h_WT_Flavo-KF297339.1-RV.bw
+longLabel Exp2 12h WT Flavo RV
+shortLabel Exp2 12h WT Flavo RV
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
+ 
+track Exp2_48h_WT_Flavo
+compositeTrack on
+type bigWig 0 1000
+group UL79
+priority 9.5
+visibility full
+shortLabel Exp2 48h WT Flavo
+longLabel Exp2 48h WT Flavo
+ 
+track Exp2_48h_WT_Flavo_FW
+parent Exp2_48h_WT_Flavo on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_48h_WT_Flavo-dedup-KF297339.1-FW.bw
+longLabel Exp2 48h WT Flavo FW
+shortLabel Exp2 48h WT Flavo FW
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+ 
+track Exp2_48h_WT_Flavo_RV
+parent Exp2_48h_WT_Flavo on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_48h_WT_Flavo-dedup-KF297339.1-RV.bw
+longLabel Exp2 48h WT Flavo RV
+shortLabel Exp2 48h WT Flavo RV
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+##########
+ 
+track Exp2_48h_WT_PFA_Flavo
+compositeTrack on
+type bigWig 0 1000
+group UL79
+priority 9.5
+visibility full
+shortLabel Exp2 48h WT PFA Flavo
+longLabel Exp2 48h WT PFA Flavo
+ 
+track Exp2_48h_WT_PFA_Flavo_FW
+parent Exp2_48h_WT_PFA_Flavo on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_48h_WT_PFA_Flavo-dedup-KF297339.1-FW.bw
+longLabel Exp2 48h WT PFA Flavo FW
+shortLabel Exp2 48h WT PFA Flavo FW
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+ 
+track Exp2_48h_WT_PFA_Flavo_RV
+parent Exp2_48h_WT_PFA_Flavo on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_48h_WT_PFA_Flavo-dedup-KF297339.1-RV.bw
+longLabel Exp2 48h WT PFA Flavo RV
+shortLabel Exp2 48h WT PFA Flavo RV
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+##########
+  
+track UL79HF_HA_ChIP
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/UL79HF_HA_ChIP-dedup-KF297339.1.bw
+longLabel UL79HF HA ChIP
+shortLabel UL79HF HA ChIP
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+##########
+
+track UL79HF_Pol_II_ChIP
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/UL79HF_Pol_II_ChIP-dedup-KF297339.1.bw
+longLabel UL79HF Pol II ChIP
+shortLabel UL79HF Pol II ChIP
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
+
+ 
+track UL79S_Pol_II_ChIP
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/UL79S_Pol_II_ChIP-dedup-KF297339.1.bw
+longLabel UL79S Pol II ChIP
+shortLabel UL79S Pol II ChIP
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
