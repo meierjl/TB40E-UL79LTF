@@ -24,8 +24,8 @@ parent Exp1_72h_UL79HF on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF-dedup-KF297339.1-FW.bw
-longLabel Exp1 72h UL79HF FW
-shortLabel Exp1 72h UL79HF FW
+longLabel Exp1 72h UL79HF 
+shortLabel Exp1 72h UL79HF 
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -38,8 +38,8 @@ parent Exp1_72h_UL79HF on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF-dedup-KF297339.1-RV.bw
-longLabel Exp1 72h UL79HF RV
-shortLabel Exp1 72h UL79HF RV
+longLabel Exp1 72h UL79HF 
+shortLabel Exp1 72h UL79HF 
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -63,8 +63,8 @@ parent Exp1_72h_UL79HF_dTAG on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_dTAG-dedup-KF297339.1-FW.bw
-longLabel Exp1 72h UL79HF dTAG FW
-shortLabel Exp1 72h UL79HF dTAG FW
+longLabel Exp1 72h UL79HF dTAG 
+shortLabel Exp1 72h UL79HF dTAG 
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -77,8 +77,8 @@ parent Exp1_72h_UL79HF_dTAG on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_dTAG-dedup-KF297339.1-RV.bw
-longLabel Exp1 72h UL79HF dTAG RV
-shortLabel Exp1 72h UL79HF dTAG RV
+longLabel Exp1 72h UL79HF dTAG 
+shortLabel Exp1 72h UL79HF dTAG 
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -103,8 +103,8 @@ parent Exp1_72h_UL79HF_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_Flavo-dedup-KF297339.1-FW.bw
-longLabel Exp1 72h UL79HF Flavo FW
-shortLabel Exp1 72h UL79HF Flavo FW
+longLabel Exp1 72h UL79HF Flavo 
+shortLabel Exp1 72h UL79HF Flavo 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -117,8 +117,8 @@ parent Exp1_72h_UL79HF_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_Flavo-dedup-KF297339.1-RV.bw
-longLabel Exp1 72h UL79HF Flavo RV
-shortLabel Exp1 72h UL79HF Flavo RV
+longLabel Exp1 72h UL79HF Flavo 
+shortLabel Exp1 72h UL79HF Flavo 
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -142,8 +142,8 @@ parent Exp1_72h_UL79HF_Flavo_dTAG on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_Flavo_dTAG-dedup-KF297339.1-FW.bw
-longLabel Exp1 72h UL79HF Flavo dTAG FW
-shortLabel Exp1 72h UL79HF Flavo dTAG FW
+longLabel Exp1 72h UL79HF Flavo dTAG 
+shortLabel Exp1 72h UL79HF Flavo dTAG 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -156,8 +156,8 @@ parent Exp1_72h_UL79HF_Flavo_dTAG on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_Flavo_dTAG-dedup-KF297339.1-RV.bw
-longLabel Exp1 72h UL79HF Flavo dTAG RV
-shortLabel Exp1 72h UL79HF Flavo dTAG RV
+longLabel Exp1 72h UL79HF Flavo dTAG 
+shortLabel Exp1 72h UL79HF Flavo dTAG 
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -182,8 +182,8 @@ parent Exp2_12h_WT_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_12h_WT_Flavo-dedup-KF297339.1-FW.bw
-longLabel Exp2 12h WT Flavo FW
-shortLabel Exp2 12h WT Flavo FW
+longLabel Exp2 12h WT Flavo 
+shortLabel Exp2 12h WT Flavo 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -196,8 +196,8 @@ parent Exp2_12h_WT_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_12h_WT_Flavo-dedup-KF297339.1-RV.bw
-longLabel Exp2 12h WT Flavo RV
-shortLabel Exp2 12h WT Flavo RV
+longLabel Exp2 12h WT Flavo 
+shortLabel Exp2 12h WT Flavo 
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -221,8 +221,8 @@ parent Exp2_48h_WT_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_48h_WT_Flavo-dedup-KF297339.1-FW.bw
-longLabel Exp2 48h WT Flavo FW
-shortLabel Exp2 48h WT Flavo FW
+longLabel Exp2 48h WT Flavo 
+shortLabel Exp2 48h WT Flavo 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -235,8 +235,8 @@ parent Exp2_48h_WT_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_48h_WT_Flavo-dedup-KF297339.1-RV.bw
-longLabel Exp2 48h WT Flavo RV
-shortLabel Exp2 48h WT Flavo RV
+longLabel Exp2 48h WT Flavo 
+shortLabel Exp2 48h WT Flavo 
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -261,8 +261,8 @@ parent Exp2_48h_WT_PFA_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_48h_WT_PFA_Flavo-dedup-KF297339.1-FW.bw
-longLabel Exp2 48h WT PFA Flavo FW
-shortLabel Exp2 48h WT PFA Flavo FW
+longLabel Exp2 48h WT PFA Flavo 
+shortLabel Exp2 48h WT PFA Flavo 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -275,8 +275,8 @@ parent Exp2_48h_WT_PFA_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_48h_WT_PFA_Flavo-dedup-KF297339.1-RV.bw
-longLabel Exp2 48h WT PFA Flavo RV
-shortLabel Exp2 48h WT PFA Flavo RV
+longLabel Exp2 48h WT PFA Flavo 
+shortLabel Exp2 48h WT PFA Flavo 
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -294,8 +294,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL7
 longLabel UL79HF HA ChIP
 shortLabel UL79HF HA ChIP
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 113,35,124
+altColor 113,35,124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -310,8 +310,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL7
 longLabel UL79HF Pol II ChIP
 shortLabel UL79HF Pol II ChIP
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 113,35,124
+altColor 113,35,124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -326,8 +326,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL7
 longLabel UL79S Pol II ChIP
 shortLabel UL79S Pol II ChIP
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 113,35,124
+altColor 113,35,124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
