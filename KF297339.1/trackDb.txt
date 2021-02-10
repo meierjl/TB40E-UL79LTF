@@ -389,7 +389,7 @@ track 12h_5_RV
 parent 12h_5 on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_12h_WT_Flavo-dedup-KF297339.1-FW-5.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp2_12h_WT_Flavo-dedup-KF297339.1-RV-5.bw
 longLabel 5' Exp2 12h WT Flavo RV
 shortLabel 5' Exp2 12h WT Flavo RV
 negateValues on
