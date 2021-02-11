@@ -346,7 +346,7 @@ track UL79F_No_dTAG_Flavo_Exp1_5_RV
 parent UL79F_No_dTAG_Flavo_Exp1_5 on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_Flavo-dedup-KF297339.1-FW-5.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_Flavo-dedup-KF297339.1-RV-5.bw
 longLabel 5' Exp1 72h UL79HF Flavo RV
 shortLabel 5' Exp1 72h UL79HF Flavo RV
 negateValues on
