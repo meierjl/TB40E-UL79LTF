@@ -1,6 +1,6 @@
 # TB40E-UL79LTF
 
-This is a curated selection of existing and new HCMV TB40/E-UL79 datasets for viewing in the [UCSC Genome Browser](http://www.genome.ucsc.edu/).
+This is a curated selection of new HCMV TB40/E-UL79LTF datasets for viewing in the [UCSC Genome Browser](http://www.genome.ucsc.edu/).
 
 # Usage:
 
