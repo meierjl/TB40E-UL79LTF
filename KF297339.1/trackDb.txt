@@ -63,8 +63,8 @@ parent Exp1_72h_UL79HF_dTAG on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_dTAG-dedup-KF297339.1-FW.bw
-longLabel Exp1 72h UL79HF dTAG 
-shortLabel Exp1 72h UL79HF dTAG 
+longLabel Exp1 72h UL79HF 6h dTAG 
+shortLabel Exp1 72h UL79HF 6h dTAG 
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -77,8 +77,8 @@ parent Exp1_72h_UL79HF_dTAG on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_dTAG-dedup-KF297339.1-RV.bw
-longLabel Exp1 72h UL79HF dTAG 
-shortLabel Exp1 72h UL79HF dTAG 
+longLabel Exp1 72h UL79HF 6h dTAG 
+shortLabel Exp1 72h UL79HF 6h dTAG 
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -142,8 +142,8 @@ parent Exp1_72h_UL79HF_Flavo_dTAG on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_Flavo_dTAG-dedup-KF297339.1-FW.bw
-longLabel Exp1 72h UL79HF Flavo dTAG 
-shortLabel Exp1 72h UL79HF Flavo dTAG 
+longLabel Exp1 72h UL79HF Flavo 6h dTAG 
+shortLabel Exp1 72h UL79HF Flavo 6h dTAG 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -156,8 +156,8 @@ parent Exp1_72h_UL79HF_Flavo_dTAG on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_Flavo_dTAG-dedup-KF297339.1-RV.bw
-longLabel Exp1 72h UL79HF Flavo dTAG 
-shortLabel Exp1 72h UL79HF Flavo dTAG 
+longLabel Exp1 72h UL79HF Flavo 6h dTAG 
+shortLabel Exp1 72h UL79HF Flavo 6h dTAG 
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -418,8 +418,8 @@ parent UL79-dTAG-Flavo-Exp1-5 on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_Flavo_dTAG-dedup-KF297339.1-FW-5.bw
-longLabel 5' Exp1 72h UL79HF Flavo dTAG 
-shortLabel 5' Exp1 72h UL79HF Flavo dTAG 
+longLabel 5' Exp1 72h UL79HF Flavo 6h dTAG 
+shortLabel 5' Exp1 72h UL79HF Flavo 6h dTAG 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -432,8 +432,8 @@ parent UL79-dTAG-Flavo-Exp1-5 on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF_Flavo_dTAG-dedup-KF297339.1-RV-5.bw
-longLabel 5' Exp1 72h UL79HF Flavo dTAG 
-shortLabel 5' Exp1 72h UL79HF Flavo dTAG 
+longLabel 5' Exp1 72h UL79HF Flavo 6h dTAG 
+shortLabel 5' Exp1 72h UL79HF Flavo 6h dTAG 
 negateValues on
 color 153,58,29
 altColor 153,58,29
