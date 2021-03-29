@@ -441,3 +441,16 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 
+
+#######################
+ORFs
+#######################
+
+track ORFs-GSE41605
+type bigBed 6 .
+group map
+priority 2
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/decoding_HCMV_ORFs.bb
+longLabel ORFs identified in Decoding HCMV Using Ribosome Profiling (GSE41605)
+shortLabel Identified ORFs
+visibility pack
