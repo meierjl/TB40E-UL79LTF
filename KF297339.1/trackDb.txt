@@ -275,7 +275,7 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/2020-07-17-48h-dedup.KF297339.1.RV.5.bw
 longLabel 5' Exp2 48h WT Flavo 
-shortLabel 5' Exp2 48h WT Flavo 5
+shortLabel 5' Exp2 48h WT Flavo 
 negateValues on
 color 153,58,29
 altColor 153,58,29
