@@ -260,11 +260,11 @@ parent Exp2_48h_WT_Flavo_5 on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/2020-07-17-48h-dedup.KF297339.1.FW.5.bw
-longLabel Exp2 48h WT Flavo 5
-shortLabel Exp2 48h WT Flavo 5
+longLabel 5' Exp2 48h WT Flavo 
+shortLabel 5' Exp2 48h WT Flavo 
 negateValues off
-color 0,0,255
-altColor 0,0,255
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -274,11 +274,11 @@ parent Exp2_48h_WT_Flavo_5 on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-UL79/master/KF297339.1/UL79/2020-07-17-48h-dedup.KF297339.1.RV.5.bw
-longLabel Exp2 48h WT Flavo 5
-shortLabel Exp2 48h WT Flavo 5
+longLabel 5' Exp2 48h WT Flavo 
+shortLabel 5' Exp2 48h WT Flavo 5
 negateValues on
-color 0,0,255
-altColor 0,0,255
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
